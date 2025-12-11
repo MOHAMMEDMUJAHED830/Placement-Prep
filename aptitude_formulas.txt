@@ -1,0 +1,12 @@
+IMPORTANT APTITUDE FORMULAS
+===========================
+
+NUMBER SYSTEM:
+- Sum of first n natural numbers: n(n+1)/2
+- Sum of squares: n(n+1)(2n+1)/6
+
+PERCENTAGE:
+- % change = (change/original) × 100
+- Successive: a + b + ab/100
+
+Average of consecutive numbers = (First + Last)/2
