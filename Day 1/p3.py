@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+collage = input("Enter your college name: ")
+branch = input("Enter your branch: ")
+
+print("\n===== my details =====")
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"College: {collage}")
+print(f"Branch: {branch}")
