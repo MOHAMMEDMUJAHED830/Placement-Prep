@@ -1,0 +1,17 @@
+DAY 4 SUMMARY
+=============
+Coding Topics:
+- Tuples: indexing, slicing, count, unpacking
+- Sets: unique elements, union/intersection/difference, membership
+Coding Questions Solved: 14/14
+
+Aptitude Topic:
+- Time-Speed-Distance (units, relative speed, average speed, trains)
+Aptitude Questions Solved: 14/14
+
+Typing:
+- Today WPM: 23 (previous best: 21)
+
+Study Hours: 4.5
+Confidence: 7.2/10
+GitHub Updated: Yes
