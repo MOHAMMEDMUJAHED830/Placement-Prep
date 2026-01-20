@@ -1,0 +1,2 @@
+I am a CSE student
+Learning Python for Placements
